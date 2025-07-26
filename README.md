@@ -4,18 +4,8 @@
 - 📫 How to reach me (faralimansk7777@mail.ru)
 - 😄 Pronouns: Fara / Faralone/s
 
-# Hi, I’m [Your Name]  
+![Dynamic Stats](https://github-readme-stats.vercel.app/api?username=FaraLimansk&show_icons=true&theme=radical)
 
-## GitHub Stats  
-
-| Metric          | Value |
-|-----------------|-------|
-| Total Stars     | 8     |
-| Total Commits   | 631   |
-| Total PRs       | 72    |
-| Total Issues    | 143   |
-
-![Dynamic Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true)
 
 <!---
 FaraLimansk/FaraLimansk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
