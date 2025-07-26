@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning kotlin/dart
 - 📫 How to reach me (faralimansk7777@mail.ru)
 - 😄 Pronouns: Fara / Faralone/s
-- ⚡ Fun fact: I'm playing in this games : LoL , Rust
 
 <!---
 FaraLimansk/FaraLimansk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
