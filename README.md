@@ -73,8 +73,16 @@
 
 ---
 
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaraLimansk&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaraLimansk&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+
+
+<p> <a href="https://github.com/FaraLimansk"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:fedorovivan776@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://t.me/Faralones"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </p>
+
+
 ##  Currently Working With
 
 ```text
 Java • Spring Boot • PostgreSQL • Docker • ASP.NET • C# • Python • Kotlin
 CI/CD • Jenkins • Swagger • Postman • SQL / NoSQL
+
+
