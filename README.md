@@ -3,6 +3,9 @@
 
 
 <h1 align="center">Hi there, I'm Ivan aka Fara </h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/673YMzTFNrmRBN10fQ/giphy.gif" width="700" alt="Chris from Tinder gif"/>
+</p>
 <h3 align="center">Backend Developer | Java / Spring / .NET / Python</h3>
 
 <p align="center">
@@ -77,7 +80,8 @@
 </p>
 
 ## Connect with Me
-<p> <a href="https://github.com/FaraLimansk"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:fedorovivan776@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://t.me/Faralones"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </p>
+Email: fedorovivan776@gmail.com
+<p> <a href="https://t.me/Faralones"> <img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </p>
 
 
 ##  Currently Working With
